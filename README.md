@@ -2,6 +2,7 @@
 # Flowbite-React-NextJs Boilerplate
 [![Preview](https://raw.githubusercontent.com/sagarmusabbir/nomad-flowbite-react-next-starter/main/public/sssmall.png)
 ](https://nomad-flowbite-react-next-starter.vercel.app/)
+
 <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsagarmusabbir%2Fnomad-flowbite-react-next-starter%2F&project-name=nomad-flowbite-react-next-starter&repository-name=nomad-flowbite-react-next-starter&demo-title=nomad-flowbite-react-next-starter&demo-description=Nomad%20Next.js%20%2B%20FlowbiteReact%20%2B%20TypeScript%20starter%20template&demo-url=https%3A%2F%2Fnomad-flowbite-react-next-starter.vercel.app%2F&demo-image=https%3A%2F%2Fraw.githubusercontent.com%2Fsagarmusabbir%2Fnomad-flowbite-react-next-starter%2Fmain%2Fpublic%2Fsssmall.png"><img src="https://vercel.com/button" alt="Deploy with Vercel"/></a>
 
 ### Built With
