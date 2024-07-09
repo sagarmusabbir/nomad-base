@@ -1,5 +1,5 @@
 
-# Flowbite-React-NextJs Boilerplate
+# Flowbite-React-NextJs Starter
 [![Preview](https://raw.githubusercontent.com/sagarmusabbir/nomad-flowbite-react-next-starter/main/public/sssmall.png)
 ](https://nomad-flowbite-react-next-starter.vercel.app/)
 
