@@ -4,9 +4,9 @@ const defaultSEOConfig = {
   titleTemplate: "%s | nomad-flowbiteReact-next-starter",
   defaultTitle: "nomad-flowbiteReact-next-starter",
   description: "Nomad Next.js + FlowbiteReact + TypeScript starter template",
-  canonical: "https://nomad-flowbiteReact-next-starter.vercel.app",
+  canonical: "https://nomad-flowbite-react-next-starter.vercel.app/",
   openGraph: {
-    url: "https://nomad-flowbiteReact-next-starter.vercel.app",
+    url: "https://nomad-flowbite-react-next-starter.vercel.app/",
     title: "nomad-flowbiteReact-next-starter",
     description: "Next.js + FlowbiteReact + TypeScript starter template",
     type: "website",
