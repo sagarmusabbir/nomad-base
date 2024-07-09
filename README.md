@@ -1,5 +1,5 @@
-
 # Flowbite-React-NextJs Starter
+
 [![Preview](https://raw.githubusercontent.com/sagarmusabbir/nomad-flowbite-react-next-starter/main/public/sssmall.png)
 ](https://nomad-flowbite-react-next-starter.vercel.app/)
 
@@ -15,24 +15,29 @@
 A Boilerplate for NextJs + FlowbiteReact - This is an open source boilerplate made by [Third Bracket](https://www.thirdbracket.co.uk/) which anyone can use without any credit.
 
 ## Features
+
 1. Ready to use flowbite react component
 2. Next.js App Directory
 3. Typescript custom type declaration
-4. Dynamic navigation links 
+4. Dynamic navigation links
 5. A site config file to easily customize
-6. SEO Optimization (using  `next-seo`)
+6. SEO Optimization (using `next-seo`)
 7. Proper use of SVG icons with `React SVGProps` and `react-icons`
 
 ## Getting Started
-You can easily bootstrap your project with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) 
+
+You can easily bootstrap your project with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app)
+
 ```
-npx create-next-app --example https://github.com/sagarmusabbir/nomad-flowbite-react-next-starter nomad-flowbite-react-next-starter
+npx create-next-app --example https://github.com/sagarmusabbir/nomad-flowbite-react-next.js-starter nomad-flowbite-react-next.js-starter
 ```
-Follow the inline command until the project is ready. After that go to your project directory and run local server. 
+
+Follow the inline command until the project is ready. After that go to your project directory and run local server.
+
 ```
 cd nomad-flowbite-react-next-starter
 npm run dev
-``` 
+```
 
 ### Depedencies
 
@@ -50,11 +55,10 @@ npm run dev
 2. Edit `next-seo.config.js` to change seo related data.
 
 ### Deploy
+
 Deploy your project to Vercel or Netlify. You can directly deploy to vercel with the button bellow.
 
 <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsagarmusabbir%2Fnomad-flowbite-react-next-starter%2F&project-name=nomad-flowbite-react-next-starter&repository-name=nomad-flowbite-react-next-starter&demo-title=nomad-flowbite-react-next-starter&demo-description=Nomad%20Next.js%20%2B%20FlowbiteReact%20%2B%20TypeScript%20starter%20template&demo-url=https%3A%2F%2Fnomad-flowbite-react-next-starter.vercel.app%2F&demo-image=https%3A%2F%2Fraw.githubusercontent.com%2Fsagarmusabbir%2Fnomad-flowbite-react-next-starter%2Fmain%2Fpublic%2Fsssmall.png"><img src="https://vercel.com/button" alt="Deploy with Vercel"/></a>
-
-
 
 ## Contact
 
