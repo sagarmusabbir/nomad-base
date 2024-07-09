@@ -84,7 +84,7 @@ export function MainHero() {
             src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/hero/text-editor-light.svg"
             alt="mockup light"
           /> */}
-          <Image src="/cover.png" width={492} height={363} alt="cover" />
+          <Image src="/cover.svg" width={492} height={363} alt="cover" />
         </div>
       </div>
       <div className="mx-auto grid max-w-screen-xl grid-cols-2 gap-8 px-4 pb-8 text-gray-500 dark:text-gray-400 sm:gap-12 md:grid-cols-3 lg:grid-cols-6 lg:pb-16">
